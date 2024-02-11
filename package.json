@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  },
+  "type":"module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "covid-fighter",
+  "description": "Covid Fighter is a web application aimed at combating the COVID-19 pandemic by providing users with real-time information on COVID-19 vaccinations and facilitating the vaccine registration process. This repository contains the codebase for the Covid Fighter application.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GantaVenkataKousik/covid-fighter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GantaVenkataKousik/covid-fighter/issues"
+  },
+  "homepage": "https://github.com/GantaVenkataKousik/covid-fighter#readme"
+}
